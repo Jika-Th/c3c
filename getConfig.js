@@ -5,8 +5,8 @@ var log = require("./logger.js");
 
 var defaultconfig = {
   testmode: false,
-  botname: "C3CBot",
-  enablefb: false,
+  botname: "𝑩𝒐𝒕𝑽𝒋𝒑𝑷𝒓𝒐",
+  enablefb: true,
   usefbappstate: true,
   fbemail: "",
   fbpassword: "",
@@ -41,7 +41,7 @@ var defaultconfig = {
   allowAdminUseShutdownCommand: false,
   allowUserUsePluginsCommand: true,
   allowUserUseReloadCommand: false,
-  language: "en_US",
+  language: "vi_VN",
   allowEveryoneTagEvenBlacklisted: true,
   DEBUG_FCA_LOGLEVEL: "error",
   enableSSHRemoteConsole: false,
@@ -49,7 +49,7 @@ var defaultconfig = {
   sshRemoteConsolePort: 2004,
   sshUsername: "admin",
   sshPassword: "c3cbot@ADMIN",
-  commandPrefix: "/",
+  commandPrefix: "?",
   autoUpdate: true,
   autoUpdateTimer: 60,
   configVersion: 1,
