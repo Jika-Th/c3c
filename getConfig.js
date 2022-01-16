@@ -30,11 +30,11 @@ var defaultconfig = {
     "0" //Replace 0 with Discord channel ID
   ],
   admins: [
-    "FB-0", //Replace 0 with FBID
+    "FB-100056335523144", //Replace 0 with FBID
     "DC-0" //Replace 0 with Discord ID
   ],
   blacklistedUsers: [
-    "FB-0", //Replace 0 with FBID
+    "FB-100056335523144", //Replace 0 with FBID
     "DC-0" //Replace 0 with Discord ID
   ],
   allowAdminUseRestartCommand: true,
